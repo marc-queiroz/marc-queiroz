@@ -1,17 +1,25 @@
 ### Hey, I'm Marc 👋
 
-I'm a Senior Python Developer passionate about building scalable, secure, and innovative software solutions.
+I'm a Senior Python Developer and Tech Lead passionate about building scalable, secure, and innovative software solutions.
 
-Currently, I'm contributing remotely at [ONR (Operador Nacional do Registro de Imóveis)](https://www.registrodeimoveis.org.br/onr), a mission-driven organization transforming Brazil's property registry system through cutting-edge technology.  
-My focus is on modernizing digital protocols, cloud-native development, and delivering high-impact solutions that foster transparency and efficiency.
+**🆕 Currently:**
+Python Engineer at [BairesDev](https://www.bairesdev.com/), delivering high-quality backend solutions for international projects.
 
-💻 Backend expertise: Python, Django, Django REST Framework, Celery, Redis, and scalable data stores.  
-☁️ Cloud savvy: Experience with Google Cloud Platform and containerized environments.  
-🌐 Frontend skills: Vue 3, Vite, Vuetify, Pinia, and dynamic permission control with CASL.  
-🐳 DevOps mindset: Docker, Nginx, monitoring, health checks, structured logging, and orchestration.  
-📊 Observability: Logs and metrics visualization with Grafana and ClickHouse.  
-🛠️ Comfortable with low-level Linux automation, networking, and infrastructure like ZFS and pfSense.
+**🕒 Recently:**
+Tech Lead at [ONR (Operador Nacional do Registro de Imóveis)](https://www.registrodeimoveis.org.br/onr), leading a squad of 7 developers in modernizing the backend of Brazil's national property registry system using FastAPI and async SQLAlchemy.
 
-I enjoy tackling real-time systems, leading squads towards agile delivery, and diving deep into complex challenges — from backend architecture to embedded hardware tweaks like upgrading my Xiaomi scooter's battery.
+**Key achievements at ONR:**
 
-Let’s connect, collaborate, and build impactful software together!
+* Led the design and implementation of an async backend architecture, improving system scalability and maintainability.
+* Developed a document processing pipeline using Google Cloud Storage and Pub/Sub for PDF generation and digital signature validation (SignatureValidator project), ensuring compliance with Brazilian advanced and qualified digital signatures.
+* Implemented advanced caching strategies with Redis to reduce DB queries and improve API response times.
+* Conducted architecture definition, code reviews, and mentoring, promoting best practices and team growth.
+
+💻 **Backend expertise:** Python, FastAPI, Django, Django REST Framework, SQLAlchemy, Celery, Redis, PostgreSQL, scalable data stores.
+☁️ **Cloud savvy:** Google Cloud Platform, containerized environments, cloud storage, Pub/Sub messaging.
+🌐 **Frontend skills:** Vue 3, Vite, Vuetify, Pinia, CASL for dynamic permissions.
+🐳 **DevOps mindset:** Docker, Nginx, monitoring, health checks, structured logging, orchestration.
+📊 **Observability:** Grafana, ClickHouse, logs & metrics visualization.
+🛠️ **Infrastructure know-how:** Linux automation, networking, ZFS, pfSense.
+
+💡 Outside of work, I enjoy real-time systems, mechanical/electronic tinkering, and DIY engineering projects — like my year-long Xiaomi M365 scooter battery rebuild, from cell selection/testing to full retrofit and spot welding.
