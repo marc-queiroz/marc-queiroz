@@ -16,10 +16,15 @@ Tech Lead at [ONR (Operador Nacional do Registro de Imóveis)](https://www.regis
 * Conducted architecture definition, code reviews, and mentoring, promoting best practices and team growth.
 
 💻 **Backend expertise:** Python, FastAPI, Django, Django REST Framework, SQLAlchemy, Celery, Redis, PostgreSQL, scalable data stores.
+
 ☁️ **Cloud savvy:** Google Cloud Platform, containerized environments, cloud storage, Pub/Sub messaging.
+
 🌐 **Frontend skills:** Vue 3, Vite, Vuetify, Pinia, CASL for dynamic permissions.
+
 🐳 **DevOps mindset:** Docker, Nginx, monitoring, health checks, structured logging, orchestration.
+
 📊 **Observability:** Grafana, ClickHouse, logs & metrics visualization.
+
 🛠️ **Infrastructure know-how:** Linux automation, networking, ZFS, pfSense.
 
 💡 Outside of work, I enjoy real-time systems, mechanical/electronic tinkering, and DIY engineering projects — like my year-long Xiaomi M365 scooter battery rebuild, from cell selection/testing to full retrofit and spot welding.
